@@ -1,64 +1,99 @@
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" height="150" alt="l1x2h3 Avatar"> <!-- Replace with your actual avatar URL if available -->
-</p>
 
-<h1 align="center">Welcome to l1x2h3's Profile!!!</h1>
+![l1x2h3 Avatar](https://avatars.githubusercontent.com/u/your-github-id?v=4)
 
-## Table of Contents
+# 👋 Welcome to l1x2h3's Profile!
 
-- [Table of Contents](#table-of-contents)
-- [About Me](#about-me)
-- [Research Interests](#research-interests)
-- [Skills and Languages](#skills-and-languages)
-- [Top Projects](#top-projects)
-- [Contact](#contact)
-- [GitHub Stats](#github-stats)
-  - [Made with ❤ and Markdown](#made-with--and-markdown)
+*Researcher | Developer | Postgraduate Student |Innovator at UCAS*
 
-## About Me
+---
 
-Hi, I'm l1x2h3 (Glorious Years), a student/researcher at Northwestern Polytechnical University (西北工业大学) in Xi'an, Shaanxi. I'm passionate about technology, innovation, and contributing to open-source projects.
+## 📑 Table of Contents
 
-## Research Interests
+- About Me
+- Research Interests
+- Skills
+- Featured Projects
+- Contact
+- GitHub Stats
 
-My work focuses on areas such as:
-- Machine Learning and Pattern Recognition
-- Cybersecurity
-- Marine Accident Modeling
-- Cache Simulation and System Optimization
+---
 
-These interests are reflected in my projects and contributions.
+## 🌟 About Me
 
-## Skills and Languages
+Hello! I'm **l1x2h3** (Glorious Years), a passionate graduate student at **UCAS** in Beijing, China. I love exploring the intersections of technology and research, with a focus on solving real-world problems through code and innovation. My work spans open-source contributions, academic research, and competitive programming.
+
+---
+
+## 🔬 Research Interests
+
+My research revolves around cutting-edge topics in computer science and engineering:
+
+- 🧠 **Machine Learning & Pattern Recognition**: Developing algorithms for intelligent systems.
+- 🔒 **Cybersecurity**: Tackling challenges in network security and data protection.
+- ⚓ **Marine Accident Modeling**: Building dynamic models for maritime safety.
+- 💾 **Cache Simulation & Optimization**: Enhancing system performance through efficient cache designs.
+
+---
+
+## 💻 Skills
+
+![Python](https://img.shields.io/badge/Python-3.8+-yellow?logo=python)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![Git](https://img.shields.io/badge/Git-GitHub-darkgrey?logo=git)
+![ML](https://img.shields.io/badge/Machine%20Learning-TensorFlow-blue?logo=tensorflow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CTF-green)
 
 - **Programming Languages**: Python (primary), HTML
-- **Tools & Frameworks**: Familiar with machine learning libraries (e.g., for pattern recognition), simulation tools, and cybersecurity challenges.
-- **Other Skills**: Open-source development, problem-solving in competitive programming-style challenges.
+- **Frameworks & Tools**: TensorFlow, NumPy, Pandas, Git, simulation tools
+- **Other Expertise**: Competitive programming, system optimization, open-source collaboration
 
-## Top Projects
+---
 
-Here are some of my notable repositories:
+## 🚀 Featured Projects
 
-| Project Name | Description | Stars | Language |
-|--------------|-------------|-------|----------|
-| [HonKaiclib](https://github.com/l1x2h3/HonKaiclib) | Test for HonKai | 1 | Python |
-| [MachineLearning_NPU](https://github.com/l1x2h3/MachineLearning_NPU) | 西工大模式识别与机器学习参考代码 (Reference code for Pattern Recognition and Machine Learning at NPU) | 3 | Python |
-| [CCTest_reApperable](https://github.com/l1x2h3/CCTest_reApperable) | 2024西交网安夏令营22题题解参考思路 (Solutions and ideas for 2024 Xi'an Jiaotong University Cybersecurity Summer Camp challenges) | 2 | Python |
-| [Marine-accident-modeling-software](https://github.com/l1x2h3/Marine-accident-modeling-software) | 2025陕西省大创航海事故动态建模 (Dynamic modeling software for marine accidents - Shaanxi Provincial Innovation Project 2025) | 6 | Python |
-| [Cache-monitor](https://github.com/l1x2h3/Cache-monitor) | Cache模拟器软著开源版 (Open-source version of Cache Simulator software) | 2 | HTML/Python |
+Here are some of my key projects showcasing my work:
 
-Feel free to check them out and contribute!
+<table style="min-width: 100px">
+<colgroup><col style="min-width: 25px"><col style="min-width: 25px"><col style="min-width: 25px"><col style="min-width: 25px"></colgroup><tbody><tr class="border-border"><th colspan="1" rowspan="1"><p dir="ltr">Project Name</p></th><th colspan="1" rowspan="1"><p dir="ltr">Description</p></th><th colspan="1" rowspan="1"><p dir="ltr">Stars</p></th><th colspan="1" rowspan="1"><p dir="ltr">Language</p></th></tr><tr class="border-border"><td colspan="1" rowspan="1"><p dir="ltr"><strong>HonKaiclib</strong></p></td><td colspan="1" rowspan="1"><p dir="ltr">Test library for HonKai</p></td><td colspan="1" rowspan="1"><p>⭐ 1</p></td><td colspan="1" rowspan="1"><img src="https://img.shields.io/badge/-Python-yellow?logo=python" alt="Python"></td></tr><tr class="border-border"><td colspan="1" rowspan="1"><p dir="ltr"><strong>MachineLearning_NPU</strong></p></td><td colspan="1" rowspan="1"><p dir="ltr">Reference code for Pattern Recognition and Machine Learning at NPU</p></td><td colspan="1" rowspan="1"><p>⭐ 3</p></td><td colspan="1" rowspan="1"><img src="https://img.shields.io/badge/-Python-yellow?logo=python" alt="Python"></td></tr><tr class="border-border"><td colspan="1" rowspan="1"><p dir="ltr"><strong>CCTest_reApperable</strong></p></td><td colspan="1" rowspan="1"><p dir="ltr">Solutions for 2024 Xi'an Jiaotong University Cybersecurity Summer Camp</p></td><td colspan="1" rowspan="1"><p>⭐ 2</p></td><td colspan="1" rowspan="1"><img src="https://img.shields.io/badge/-Python-yellow?logo=python" alt="Python"></td></tr><tr class="border-border"><td colspan="1" rowspan="1"><p dir="ltr"><strong>Marine-accident-modeling-software</strong></p></td><td colspan="1" rowspan="1"><p dir="ltr">Dynamic modeling for marine accidents (2025 Shaanxi Innovation Project)</p></td><td colspan="1" rowspan="1"><p>⭐ 6</p></td><td colspan="1" rowspan="1"><img src="https://img.shields.io/badge/-Python-yellow?logo=python" alt="Python"></td></tr><tr class="border-border"><td colspan="1" rowspan="1"><p dir="ltr"><strong>Cache-monitor</strong></p></td><td colspan="1" rowspan="1"><p dir="ltr">Open-source Cache Simulator software</p></td><td colspan="1" rowspan="1"><p>⭐ 2</p></td><td colspan="1" rowspan="1"><img src="https://img.shields.io/badge/-HTML-orange?logo=html5" alt="HTML"><img src="https://img.shields.io/badge/-Python-yellow?logo=python" alt="Python"></td></tr></tbody>
+</table>
 
-## Contact
+👉 **Contribute**: Feel free to fork, star, or submit pull requests to any of my repositories!
 
-- **Email**: [Add your email here, e.g., l1x2h3@example.com] (Currently not publicly available on GitHub; feel free to reach out via GitHub issues or discussions.)
-- **Location**: Xi'an, Shaanxi, China
-- **University**: Northwestern Polytechnical University (西北工业大学)
+---
 
-## GitHub Stats
+## 📬 Contact
 
-[![l1x2h3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=l1x2h3&show_icons=true&theme=dracula)](https://github.com/l1x2h3)
+- **Email**: 1824161941@example.com
+- **Location**: Beijing, China
+- **University**: UCAS
+- **GitHub**: l1x2h3
 
-[![l1x2h3's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=l1x2h3&theme=dracula)](https://github.com/l1x2h3/github-readme-activity-graph)
+---
 
-### Made with ❤ and Markdown
+## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/l1x2h3">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=l1x2h3&show_icons=true&theme=dracula&hide_border=true" alt="l1x2h3's GitHub Stats">
+    </a>
+    <a href="https://github.com/l1x2h3">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1x2h3&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img height="180" src="https://streak-stats.demolab.com/?user=l1x2h3&theme=dark&hide_border=true&currStreakNum=2FD3EB&fire=FF69B4" alt="GitHub Streak">
+    </a>
+    <a href="https://github.com/l1x2h3/github-readme-activity-graph">
+        <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=l1x2h3&theme=dracula&hide_border=true&area=true" alt="l1x2h3's GitHub Activity Graph">
+    </a>
+</p>
+
+<p align="center">
+    <i>🔥 Tracking my coding journey with consistent contributions!</i>
+</p>
+
+---
+
+*Made with ❤️ and Markdown at Northwestern Polytechnical University*

@@ -1,6 +1,3 @@
-
-![l1x2h3 Avatar](https://avatars.githubusercontent.com/u/115941116?v=4)
-
 # 👋 Welcome to l1x2h3's Profile!
 
 *Researcher | Developer | Postgraduate Student |Innovator at UCAS*
@@ -72,23 +69,13 @@ Here are some of my key projects showcasing my work:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <a href="https://github.com/l1x2h3">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=l1x2h3&show_icons=true&theme=dracula&hide_border=true" alt="l1x2h3's GitHub Stats">
-    </a>
-    <a href="https://github.com/l1x2h3">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1x2h3&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-    </a>
-</p>
+![l1x2h3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=l1x2h3&show_icons=true&theme=dracula)
 
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img height="180" src="https://streak-stats.demolab.com/?user=l1x2h3&theme=dark&hide_border=true&currStreakNum=2FD3EB&fire=FF69B4" alt="GitHub Streak">
-    </a>
-    <a href="https://github.com/l1x2h3/github-readme-activity-graph">
-        <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=l1x2h3&theme=dracula&hide_border=true&area=true" alt="l1x2h3's GitHub Activity Graph">
-    </a>
-</p>
+![l1x2h3's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=l1x2h3&theme=dracula&hide_border=true&area=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l1x2h3&layout=compact&theme=dracula)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=l1x2h3&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
     <i>🔥 Tracking my coding journey with consistent contributions!</i>

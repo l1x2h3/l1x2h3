@@ -17,18 +17,29 @@
 
 ## 🌟 About Me
 
-Hello! I'm **l1x2h3** (Glorious Years), a passionate graduate student at **UCAS** in Beijing, China. I love exploring the intersections of technology and research, with a focus on solving real-world problems through code and innovation. My work spans open-source contributions, academic research, and competitive programming.
+Hello! I'm **l1x2h3** (Glorious Years), a passionate graduate student at **UCAS** in Beijing, China, Institute of Software, Key Laboratory in Computer System. I love exploring the intersections of technology and research, with a focus on solving real-world problems through code and innovation. My work spans open-source contributions, academic research, and competitive programming.
 
 ---
 
+
 ## 🔬 Research Interests
 
-My research revolves around cutting-edge topics in computer science and engineering:
+My research sits at the intersection of advanced artificial intelligence, high-performance computing, and secure systems. I am dedicated to developing cutting-edge algorithms and system-level optimizations to solve complex, real-world data challenges:
 
-- 🧠 **Machine Learning & Pattern Recognition**: Developing algorithms for intelligent systems.
-- 🔒 **Cybersecurity**: Tackling challenges in network security and data protection.
-- ⚓ **Marine Accident Modeling**: Building dynamic models for maritime safety.
-- 💾 **Cache Simulation & Optimization**: Enhancing system performance through efficient cache designs.
+- 🧠 **Machine Learning, Pattern Recognition & Medical AI**: Developing intelligent algorithms with a strong focus on multi-modal learning and Vision-Language Models (VLMs). My work explores novel mathematical frameworks—such as synergizing contrastive learning with entropy-regularized optimal transport—to bridge modality gaps and enhance cross-modal alignment, particularly for critical applications in medical imaging and healthcare informatics.
+- ⚡ **High-Performance Database Systems & GPU Acceleration**: Investigating the intersection of AI workloads and hardware-efficient system architectures. I focus on optimizing fused CPU+GPU query engines, designing advanced indexing mechanisms, and accelerating large-scale analytical and vector search queries to bridge the gap between hardware capabilities and complex data retrieval.
+- 🔒 **Cybersecurity & Trustworthy Data Systems**: Tackling modern challenges in network security, data protection, and privacy-preserving computation. I aim to build robust and secure infrastructures that safeguard highly sensitive data (e.g., medical records and enterprise analytics) while maintaining high-performance machine learning and data processing pipelines.
+
+---
+
+## 📄 Selected Publications
+
+**1. Bridging the Modality Gap in Medical Vision-Language Models: A Hybrid Contrastive-Optimal Transport Framework for Enhanced Cross-Modal Alignment**
+*   **Venue:** *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2026.
+*   **Link:** [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/document/11480995)
+
+**2. Bridging the Indexing Gap in Fused GPU Query Engines**
+*   **Venue:** *Proceedings of the VLDB Endowment (PVLDB / VLDB)*, 2026.
 
 ---
 

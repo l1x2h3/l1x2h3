@@ -40,7 +40,7 @@ My research sits at the intersection of advanced artificial intelligence, high-p
 
 **2. Bridging the Indexing Gap in Fused GPU Query Engines**
 *   **Venue:** *Proceedings of the VLDB Endowment (PVLDB / VLDB)*, 2026.
-*   **Link:** [Proceedings of the VLDB Endowment]((https://www.vldb.org/pvldb/vol19/p2853-bu.pdf))
+*   **Link:** [Proceedings of the VLDB Endowment](https://www.vldb.org/pvldb/vol19/p2853-bu.pdf)
 
 **3. LOTUS: Language-vision Optimal Transport for Unified report Synthesis**
 *   **Venue:** *AACL-IJCNLP*, 2026.

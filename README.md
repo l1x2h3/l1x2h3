@@ -44,7 +44,7 @@ My research sits at the intersection of advanced artificial intelligence, high-p
 
 **3. LOTUS: Language-vision Optimal Transport for Unified report Synthesis**
 *   **Venue:** *Findings of the {A}ssociation for {C}omputational {L}inguistics: {IJCNLP}-{AACL} 2026*, 2026.
-*   **Link:** [Findings of the {A}ssociation for {C}omputational {L}inguistics: {IJCNLP}-{AACL} 2026]([https://www.vldb.org/pvldb/vol19/p2853-bu.pdf](https://aclanthology.org/2026.findings-aacl.86/))
+*   **Link:** [Findings of the {A}ssociation for {C}omputational {L}inguistics: {IJCNLP}-{AACL} 2026](https://www.vldb.org/pvldb/vol19/p2853-bu.pdf)
 
 **4. Caster: Cost-Aware Selection of BTOR2 Verifiers**
 *   **Venue:** *The 12th International Symposium on Dependable Software Engineering Theories, Tools and Applications*, 2026.
